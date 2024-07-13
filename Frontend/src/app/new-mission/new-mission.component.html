@@ -1,0 +1,125 @@
+<div>
+  <app-navbar></app-navbar>
+  <app-searchin-sorting></app-searchin-sorting>
+</div>
+<button style="margin: 50px; padding: 10px" type="button" class="btn btn-primary" (click)="openPopup()">Show Data</button>
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':displayStyle}">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Add New Mission</h4>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="myForm" (ngSubmit)="onSubmit()">
+          <div class="row">
+            <div class="col-sm-6">
+              <label class="col-form-label">Country</label>
+              <select class="form-select" formControlName="country">
+                <option value="">Select Country</option>
+                <option value="India">India</option>
+              </select>
+            </div>
+            <div class="col-sm-6">
+              <label class="col-form-label">City</label>
+              <select class="form-select" formControlName="city">
+                <option value="">Select City</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Ahemdabad">Ahemdabad</option>
+                <option value="Kolkata">Kolkata</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Jaipur">Jaipur</option>
+                <option value="Surat">Surat</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Title</label>
+            <input type="text" class="form-control" placeholder="Enter Mission Title" formControlName="missionTitle">
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Description</label>
+            <textarea class="form-control" rows="3" placeholder="Enter your message" formControlName="missionDescription"></textarea>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Organisation Name</label>
+            <input type="text" class="form-control" placeholder="Enter mission organisation name" formControlName="missionOrganisationName">
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Organisation Detail</label>
+            <textarea class="form-control" rows="3" placeholder="Enter your message" formControlName="missionOrganisationDetail"></textarea>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Start Date</label>
+            <input type="date" class="form-control" placeholder="Select start date" formControlName="startDate">
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">End Date</label>
+            <input type="date" class="form-control" placeholder="Select end date" formControlName="endDate">
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Total seats</label>
+            <input type="text" class="form-control" placeholder="Enter total seats" formControlName="totalSeats">
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission registration deadline</label>
+            <input type="date" class="form-control" placeholder="Enter mission registration deadline" formControlName="missionRegistrationDeadline">
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Theme</label>
+            <select class="form-select" formControlName="missionTheme">
+              <option value="">Select mission theme</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Skills</label>
+            <select class="form-select" formControlName="missionSkills">
+              <option value="">Select mission skills</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Images</label>
+            <div class="Neon Neon-theme-dragdropbox">
+              <input style="z-index: 999; opacity: 0; width: 320px; height: 200px; position: absolute; right: 0px; left: 0px; margin-right: auto; margin-left: auto;" name="missionImages" multiple="multiple" type="file" (change)="onFileChange($event, 'missionImages')">
+              <div class="Neon-input-dragDrop">
+                <div class="Neon-input-inner">
+                  <div class="Neon-input-icon">
+                    <i class="fa fa-upload"></i>
+                  </div>
+                  <div class="Neon-input-text">
+                    <h6>Upload image here</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Documents</label>
+            <div class="Neon Neon-theme-dragdropbox">
+              <input style="z-index: 999; opacity: 0; width: 320px; height: 200px; position: absolute; right: 0px; left: 0px; margin-right: auto; margin-left: auto;" name="missionDocuments" multiple="multiple" type="file" (change)="onFileChange($event, 'missionDocuments')">
+              <div class="Neon-input-dragDrop">
+                <div class="Neon-input-inner">
+                  <div class="Neon-input-icon">
+                    <i class="fa fa-upload"></i>
+                  </div>
+                  <div class="Neon-input-text">
+                    <h6>Upload resume here or click</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Mission Avilability</label>
+            <select class="form-select" formControlName="missionAvailability">
+              <option value="">Select mission avilability</option>
+            </select>
+          </div>
+          <div class="modal-footer" style="display: block;">
+            <button type="button" class="btnCancel" (click)="closePopup()"><span class="Cancel"> Cancel</span> </button>
+            <button type="submit" class="btnSave"><span class="Save">Save</span></button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

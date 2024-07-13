@@ -1,0 +1,66 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+   <div class="content">
+    <app-header></app-header>
+      <div class="info">
+       <div>
+           <p class="userLabel">User</p>
+       </div>
+       <div class="row">
+           <div class="col-sm-4">
+             <input type="text" [(ngModel)]="searchText" class="searchBox icon" placeholder="Search"/>
+           </div>
+           <div class="col-sm-8" style="display: flex;justify-content: flex-end;">
+               <button class="btnAdd" routerLink="../addUser"><span class="btnAddIcon"><i class="fa fa-plus"></i></span><span class="add">Add</span></button>
+           </div>
+       </div>
+       <div class="row">
+         <div class="col-sm-12">
+           <div class="tableData">
+             <table style="width: 100%;">
+             <thead>
+               <tr>
+                 <th scope="col">FirstName</th>
+                 <th scope="col">LastName</th>
+                 <th scope="col">Email</th>
+                 <th scope="col">Employee Id</th>
+                 <th scope="col">PhoneNumber</th>
+                 <th scope="col">Status</th>
+                 <th scope="col" style="text-align: right;">Action</th>
+               </tr>
+             </thead>
+             <tbody>
+              <ng-container *ngIf="(userList | filter:searchText | paginate :{ itemsPerPage: itemsPerPages, currentPage: page })as result">
+                <tr *ngFor="let item of result">
+                  <ng-container *ngIf="!item.isDeleted">
+                    <td>{{item.firstName}}</td>
+                    <td>{{item.lastName}}</td>
+                    <td>{{item.emailAddress}}</td>
+                    <td>{{item.id}}</td>
+                    <td>{{item.phoneNumber}}</td>
+                    <td style="color:#14c506;">{{item.status ? 'inactive' : 'active'}}</td>
+                    
+                    <td style="text-align: right;">
+                      <button class="btnedit" routerLink="../editUser/{{item.id}}"> <i class="fa fa-edit"></i> </button>
+                      <button class="btnedit" (click)="DeleteUser(item.id)"> <i class="fa fa-remove"></i> </button>
+                    </td>
+                  </ng-container>
+                </tr>
+                
+                                
+               <tr *ngIf="result.length === 0">
+                <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
+              </tr>
+              </ng-container>
+             </tbody>
+           </table>
+           </div>
+           <div class="mt-8 py-5" *ngIf="userList.length != 0" style="display:flex;justify-content: center;">
+            <pagination-controls previousLabel="" nextLabel="" (pageChange)="page = $event"></pagination-controls>
+          </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>
+

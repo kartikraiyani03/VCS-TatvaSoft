@@ -1,0 +1,54 @@
+﻿body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.swagger-ui .topbar {
+    background-color: #000000;
+}
+
+.swagger-ui .info .title, .swagger-ui .info .description {
+    color: #ffffff;
+}
+
+.swagger-ui .btn.authorize {
+    background-color: #2c2b2b;
+    border-color: #2980b9;
+}
+
+    .swagger-ui .btn.authorize svg {
+        fill: #ecf0f1;
+    }
+
+.swagger-ui .opblock .opblock-summary {
+    border-color: #34495e;
+}
+
+.swagger-ui .opblock .opblock-summary-method {
+    color: #ffffff;
+}
+
+.swagger-ui .opblock .opblock-summary-path {
+    color: #ffffff;
+}
+
+.swagger-ui .opblock .opblock-summary-description {
+    color: #ffffff;
+}
+
+.swagger-ui .opblock .opblock-summary-operation-id {
+    color: #ffffff;
+}
+
+.swagger-ui .opblock .opblock-body pre {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.swagger-ui .opblock .opblock-body code {
+    color: #ffffff;
+}
+
+.swagger-ui .response-col_description__response h4 {
+    color: #ffffff;
+}

@@ -1,0 +1,14 @@
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+E:\Summer Project\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll

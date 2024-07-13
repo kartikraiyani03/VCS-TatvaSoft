@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\wwwroot\\swagger-dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\wwwroot\\swagger-dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\data_access_layer\\migrations\\20240712175251_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240712175251_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\data_access_layer\\repository\\entities\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\missionapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\missionthemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\data_access_layer\\repository\\entities\\missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repository\\entities\\missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\clientmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\clientmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\data_access_layer\\dalcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\data_access_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|e:\\summer project\\ciplatfromwebapi_postgresql-master\\data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:58:25.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Missions.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:39:48.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionApplication.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\MissionApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:51:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240712175251_last.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Migrations\\20240712175251_last.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240712175251_last.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Migrations\\20240712175251_last.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240712175251_last.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:52:51.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:36:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "swagger-dark.css",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\swagger-dark.css",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\wwwroot\\swagger-dark.css",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\swagger-dark.css",
+              "RelativeToolTip": "CIPlatfromWebAPI\\wwwroot\\swagger-dark.css",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-13T08:29:46.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Program.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:50:51.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MissionApplicationController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionApplicationController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\MissionApplicationController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionApplicationController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\MissionApplicationController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:57:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionThemeController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionThemeController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\MissionThemeController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionThemeController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\MissionThemeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:54:31.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:48:14.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientMissionController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\ClientMissionController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\ClientMissionController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\ClientMissionController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\ClientMissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:08:25.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DALCommon.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALCommon.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALCommon.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALCommon.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALCommon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:37:46.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\CommonController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADwvysAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:37:16.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\JWTService\\JwtService.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\JWTService\\JwtService.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\JWTService\\JwtService.cs",
+              "RelativeToolTip": "Data_Access_Layer\\JWTService\\JwtService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:17:44.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:58:42.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\appsettings.json",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeToolTip": "CIPlatfromWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T07:51:23.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALAdminUser.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:58:02.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALLogin.cs",
+              "ToolTip": "E:\\Summer Project\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALLogin.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAkwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:07:29.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
